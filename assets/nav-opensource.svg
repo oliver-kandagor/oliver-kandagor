@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="52" viewBox="0 0 230 52" role="img" aria-label="Open source">
+<style>text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif} @keyframes sh{0%{transform:translateX(-80px)}60%,100%{transform:translateX(270px)}} .sh{animation:sh 4s ease-in-out infinite}</style>
+<defs><clipPath id="c"><rect width="230" height="52" rx="26"/></clipPath><linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#c)"><rect width="230" height="52" fill="#1d1733"/><rect class="sh" x="0" y="0" width="60" height="52" fill="url(#s)"/></g>
+<rect x="1" y="1" width="228" height="50" rx="25" fill="none" stroke="#4b3b8a" stroke-width="2"/>
+<g transform="translate(20,14)" fill="none" stroke="#B39DFF" stroke-width="2.2" stroke-linecap="round"><circle cx="5" cy="4" r="3"/><circle cx="5" cy="20" r="3"/><circle cx="19" cy="8" r="3"/><path d="M5 7v10M19 11c0 5-9 4-12 7"/></g><text x="56" y="32" font-size="16" font-weight="700" fill="#B39DFF">Open source</text>
+<path d="M190 26h14m-5-5l5 5-5 5" fill="none" stroke="#B39DFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
