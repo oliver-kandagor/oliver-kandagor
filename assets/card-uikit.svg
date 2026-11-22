@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="170" viewBox="0 0 580 170" role="img" aria-label="Flutter UI Kit: 100+ ready-made mobile screens">
+<style>text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif} @keyframes a{0%,100%{transform:translateX(0)}50%{transform:translateX(6px)}} .a{animation:a 1.8s ease-in-out infinite} @keyframes sh{0%{transform:translateX(-120px)}50%,100%{transform:translateX(700px)}} .sh{animation:sh 6s ease-in-out infinite}</style>
+<defs><clipPath id="c"><rect width="580" height="170" rx="18"/></clipPath><linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#c)"><rect width="580" height="170" fill="#111827"/><rect width="6" height="170" fill="#54C5F8"/><rect class="sh" width="100" height="170" fill="url(#s)"/></g>
+<rect x="1" y="1" width="578" height="168" rx="17" fill="none" stroke="#1f2a3d" stroke-width="2"/>
+<rect x="18" y="20" width="66" height="66" rx="18" fill="#0e2536" stroke="#02569B"/><g transform="translate(26,26) scale(1.6)" fill="#54C5F8"><path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z"/></g>
+<text x="100" y="52" font-size="22" font-weight="800" fill="#e6edf3">Flutter UI Kit</text>
+<text x="100" y="82" font-size="14.5" fill="#8b98a9">100+ ready-made mobile screens</text>
+<rect x="100" y="118" width="75.2" height="26" rx="13" fill="none" stroke="#02569B"/><text x="137.6" y="135.5" text-anchor="middle" font-size="12" fill="#54C5F8">Flutter</text>
+<rect x="183.2" y="118" width="67.6" height="26" rx="13" fill="none" stroke="#02569B"/><text x="217" y="135.5" text-anchor="middle" font-size="12" fill="#54C5F8">UI kit</text>
+<g class="a"><path d="M534 50l14-14m-10 0h10v10" fill="none" stroke="#54C5F8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
