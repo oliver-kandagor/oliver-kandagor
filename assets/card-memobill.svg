@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="170" viewBox="0 0 580 170" role="img" aria-label="MemoBill: Offline bills and shopping list for Android">
+<style>text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif} @keyframes a{0%,100%{transform:translateX(0)}50%{transform:translateX(6px)}} .a{animation:a 1.8s ease-in-out infinite} @keyframes sh{0%{transform:translateX(-120px)}50%,100%{transform:translateX(700px)}} .sh{animation:sh 6s ease-in-out infinite}</style>
+<defs><clipPath id="c"><rect width="580" height="170" rx="18"/></clipPath><linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#c)"><rect width="580" height="170" fill="#111827"/><rect width="6" height="170" fill="#3DDC84"/><rect class="sh" width="100" height="170" fill="url(#s)"/></g>
+<rect x="1" y="1" width="578" height="168" rx="17" fill="none" stroke="#1f2a3d" stroke-width="2"/>
+<rect x="18" y="20" width="66" height="66" rx="18" fill="#0c2a1b" stroke="#1b5e3a"/><g transform="translate(29,44) scale(.55)"><g fill="#3DDC84"><path d="M0 40a40 40 0 0 1 80 0z"/><rect x="14" y="-12" width="4" height="18" rx="2" transform="rotate(-30 16 6)"/><rect x="62" y="-12" width="4" height="18" rx="2" transform="rotate(30 64 6)"/></g><circle cx="25" cy="24" r="4" fill="#0c2a1b"/><circle cx="55" cy="24" r="4" fill="#0c2a1b"/></g>
+<text x="100" y="52" font-size="22" font-weight="800" fill="#e6edf3">MemoBill</text>
+<text x="100" y="82" font-size="14.5" fill="#8b98a9">Offline bills and shopping list for Android</text>
+<rect x="100" y="118" width="67.6" height="26" rx="13" fill="none" stroke="#1b5e3a"/><text x="133.8" y="135.5" text-anchor="middle" font-size="12" fill="#3DDC84">Kotlin</text>
+<rect x="175.6" y="118" width="75.2" height="26" rx="13" fill="none" stroke="#1b5e3a"/><text x="213.2" y="135.5" text-anchor="middle" font-size="12" fill="#3DDC84">Compose</text>
+<rect x="258.8" y="118" width="75.2" height="26" rx="13" fill="none" stroke="#1b5e3a"/><text x="296.4" y="135.5" text-anchor="middle" font-size="12" fill="#3DDC84">Offline</text>
+<g class="a"><path d="M534 50l14-14m-10 0h10v10" fill="none" stroke="#3DDC84" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
