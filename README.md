@@ -50,8 +50,6 @@ I like learning in public: reading the code, improving the edges, and sharing wh
 - **Swift and iOS:** [MoodleConnect-iOS](https://github.com/oliver-kandagor/MoodleConnect-iOS) · [Squirrel](https://github.com/oliver-kandagor/Squirrel)
 - **Privacy-first tools:** [aula](https://github.com/oliver-kandagor/aula) · [finvo](https://github.com/oliver-kandagor/finvo) · [rekody](https://github.com/oliver-kandagor/rekody)
 
-If you maintain a project that could use a hand with mobile or Flutter, you can tag **[@oliver-kandagor](https://github.com/oliver-kandagor)** on an issue.
-
 ## Commit log
 
 <p align="center">
