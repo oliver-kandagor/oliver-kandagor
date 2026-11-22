@@ -1,13 +1,66 @@
-<img src="./assets/pocket-field-guide.svg" width="100%" alt="Oliver Kandagor’s pocket field guide to Flutter and Swift. A blue paper glider and an orange swift fly over the hills. Kabarnet, Kenya." />
+<p align="center">
+  <a href="#flutter-lab"><img src="./assets/nav-flutter.svg" height="44" alt="Jump to Flutter projects" /></a>&nbsp;
+  <a href="#swift-studio"><img src="./assets/nav-swift.svg" height="44" alt="Jump to Swift projects" /></a>&nbsp;
+  <a href="#open-source"><img src="./assets/nav-opensource.svg" height="44" alt="Jump to open-source work" /></a>&nbsp;
+  <a href="#contact"><img src="./assets/nav-email.svg" height="44" alt="Jump to email contact" /></a>
+</p>
 
-I’m Oliver. I run **Shujaa Code** in Kenya, where I build mobile tools for schools and businesses. Two things I pay attention to: what happens when the signal drops, and whether a screen remembers where you were.
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Oliver Kandagor — Flutter and Swift mobile developer, open-source contributor. An Android phone with a code editor and hot reload." />
+</p>
 
-### ① Flutter · The fold
+I build mobile apps and tools through **Shujaa Code**. Most days, that means Flutter and Dart; when an app should feel at home on iPhone, Swift and SwiftUI. I care about the details that matter after launch: fast screens, useful offline behavior, and interfaces that feel considered.
 
-**[Nifunze](https://github.com/oliver-kandagor/nifunze-app)** turns studying into a game. **[CampusMart](https://github.com/oliver-kandagor/campusmart-app)** gives university students a place to buy and sell. For a smaller piece you can pick up and use, take a look at **[Liquid Tab Bar](https://github.com/oliver-kandagor/liquid_tab_bar)**, a floating navigation bar for Flutter.
+## Flutter lab
 
-### ② Swift · The bird
+<p align="center"><a href="https://github.com/oliver-kandagor/liquid_tab_bar"><img src="./assets/flutter-lab.svg" width="100%" alt="Dart code for a Flutter animated tab bar next to an Android learning app screen." /></a></p>
 
-**[MoodleConnect for iOS](https://github.com/oliver-kandagor/MoodleConnect-iOS)** puts Moodle courses and grades into a native SwiftUI app. One detail worth opening the code for: switch from courses to grades and back, and the course screen keeps its place instead of fetching everything again.
+A cross-platform toolkit for ideas that should feel good in the hand. The illustration above pairs a small slice of Flutter code with an Android learning screen.
 
-**Have a mobile project in mind?** [Email me](mailto:oliverkandagor1@gmail.com) · [Find me on LinkedIn](https://www.linkedin.com/in/oliver-kandagor)
+<table>
+  <tr>
+    <td><a href="https://github.com/oliver-kandagor/liquid_tab_bar"><img src="./assets/card-liquid.svg" width="480" alt="Liquid Tab Bar — floating liquid-glass navigation for Flutter." /></a></td>
+    <td><a href="https://github.com/oliver-kandagor/nifunze-app"><img src="./assets/card-nifunze.svg" width="480" alt="Nifunze — a game-like learning app built with Flutter." /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/oliver-kandagor/campusmart-app"><img src="./assets/card-campusmart.svg" width="480" alt="CampusMart — a student marketplace made with Flutter." /></a></td>
+    <td><a href="https://github.com/oliver-kandagor/flutter_ui_kit_obkm"><img src="./assets/card-uikit.svg" width="480" alt="Flutter UI Kit — more than 100 mobile screens." /></a></td>
+  </tr>
+</table>
+
+## Swift studio
+
+<p align="center"><a href="https://github.com/oliver-kandagor/MoodleConnect-iOS"><img src="./assets/swift-studio.svg" width="100%" alt="SwiftUI code beside a native iPhone courses and grades screen." /></a></p>
+
+For **MoodleConnect iOS**, I used SwiftUI for a native courses and grades experience, with MVVM and async/await behind it. The screen keeps its state when you move between tabs. I also work on iOS projects like [Squirrel](https://github.com/oliver-kandagor/Squirrel).
+
+<p align="center"><a href="https://github.com/oliver-kandagor/MoodleConnect-iOS"><img src="./assets/card-moodle.svg" width="580" alt="MoodleConnect iOS — native SwiftUI courses and grades." /></a></p>
+
+## Android, built to work offline
+
+<p align="center"><a href="https://github.com/oliver-kandagor/memobill"><img src="./assets/card-memobill.svg" width="580" alt="MemoBill — offline bills and shopping list for Android, built with Kotlin and Jetpack Compose." /></a></p>
+
+## Open source
+
+<p align="center"><img src="./assets/open-source.svg" width="100%" alt="A contribution graph across Flutter, Dart, Swift and mobile projects." /></p>
+
+I like learning in public: reading the code, improving the edges, and sharing what I learn. Some of the projects I spend time around:
+
+- **Flutter and Dart:** [fl_chart](https://github.com/oliver-kandagor/fl_chart) · [flutter_chat_ui](https://github.com/oliver-kandagor/flutter_chat_ui) · [matrix-dart-sdk](https://github.com/oliver-kandagor/matrix-dart-sdk) · [Cashew](https://github.com/oliver-kandagor/Cashew)
+- **Swift and iOS:** [MoodleConnect-iOS](https://github.com/oliver-kandagor/MoodleConnect-iOS) · [Squirrel](https://github.com/oliver-kandagor/Squirrel)
+- **Privacy-first tools:** [aula](https://github.com/oliver-kandagor/aula) · [finvo](https://github.com/oliver-kandagor/finvo) · [rekody](https://github.com/oliver-kandagor/rekody)
+
+If you maintain a project that could use a hand with mobile or Flutter, you can tag **[@oliver-kandagor](https://github.com/oliver-kandagor)** on an issue.
+
+## Commit log
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oliver-kandagor/oliver-kandagor/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/oliver-kandagor/oliver-kandagor/output/snake-light.svg" width="100%" alt="Animated contribution graph." />
+  </picture>
+</p>
+
+## Contact
+
+<p align="center"><a href="mailto:oliverkandagor1@gmail.com"><img src="./assets/contact.svg" width="100%" alt="Email Oliver Kandagor at oliverkandagor1@gmail.com about mobile projects and open source." /></a></p>
