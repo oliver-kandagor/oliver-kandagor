@@ -1,6 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Open source">
-<style>text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif} .m{font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace} @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}} .g{transform-origin:0 0;animation:grow 1.6s ease-out both} @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}} .b{animation:blink 1s steps(1) infinite}</style>
-<text class="m" x="4" y="30" font-size="15" fill="#B39DFF">03 //</text>
-<text x="4" y="70" font-size="36" font-weight="800" letter-spacing="-1" fill="#B39DFF">Open source<tspan class="b" fill="#B39DFF">_</tspan></text>
-<text x="1196" y="70" font-size="16" text-anchor="end" fill="#8b98a9">Forked, studied, improved</text>
-<rect class="g" x="4" y="86" width="1192" height="3" rx="1.5" fill="#B39DFF"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Open-source projects">
+<style>text{font-family:Arial,Helvetica,sans-serif}.m{font-family:monospace}@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}.g{transform-origin:0 0;animation:grow 1.6s ease-out both}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style><text class="m" x="4" y="30" font-size="15" fill="#b39dff">03 //</text><text x="4" y="70" font-size="36" font-weight="800" fill="#b39dff">Open source</text><text x="1196" y="70" font-size="16" text-anchor="end" fill="#8b98a9">Forked, studied, improved</text><rect class="g" x="4" y="86" width="1192" height="3" rx="1.5" fill="#b39dff"/></svg>
