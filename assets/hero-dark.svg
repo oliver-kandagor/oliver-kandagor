@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<style>
+.float{animation:float 5s ease-in-out infinite}
+.cursor{animation:blink 1.1s steps(1) infinite}
+.bar{transform-origin:left center;animation:grow 2.4s ease-out both}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion: reduce){.float,.cursor,.bar{animation:none}}
+</style>
+<rect width="1200" height="480" fill="#0d1117"/>
+<rect x="12" y="12" width="1176" height="456" rx="24" fill="#161b22" stroke="#30363d"/>
+<text x="60" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#3DDC84">&gt; flutter run --profile oliver<tspan class="cursor">_</tspan></text>
+<text x="60" y="160" font-size="58" font-weight="800" fill="#e6edf3">Oliver Kandagor</text>
+<text x="60" y="208" font-size="26" font-weight="600" fill="#e6edf3">Android Developer <tspan fill="#8b949e">·</tspan> <tspan fill="#54C5F8">Flutter</tspan> <tspan fill="#8b949e">&amp;</tspan> <tspan fill="#F05138">Swift</tspan></text>
+<text x="60" y="254" font-size="18" fill="#8b949e">I build fast, private, offline-first mobile apps for Android and iOS,</text>
+<text x="60" y="282" font-size="18" fill="#8b949e">and contribute to open source across Flutter, Dart and Matrix.</text>
+<g><rect x="60" y="318" width="86" height="34" rx="17" fill="none" stroke="#3DDC84" stroke-width="1.5"/><circle cx="75" cy="335" r="4" fill="#3DDC84"/><text x="86" y="340" font-size="14" fill="#e6edf3" font-weight="600">Android</text></g><g><rect x="164" y="318" width="86" height="34" rx="17" fill="none" stroke="#54C5F8" stroke-width="1.5"/><circle cx="179" cy="335" r="4" fill="#54C5F8"/><text x="190" y="340" font-size="14" fill="#e6edf3" font-weight="600">Flutter</text></g><g><rect x="269" y="318" width="68" height="34" rx="17" fill="none" stroke="#F05138" stroke-width="1.5"/><circle cx="284" cy="335" r="4" fill="#F05138"/><text x="295" y="340" font-size="14" fill="#e6edf3" font-weight="600">Swift</text></g><g><rect x="355" y="318" width="77" height="34" rx="17" fill="none" stroke="#7F52FF" stroke-width="1.5"/><circle cx="370" cy="335" r="4" fill="#7F52FF"/><text x="381" y="340" font-size="14" fill="#e6edf3" font-weight="600">Kotlin</text></g><g><rect x="450" y="318" width="123" height="34" rx="17" fill="none" stroke="#8b949e" stroke-width="1.5"/><circle cx="465" cy="335" r="4" fill="#8b949e"/><text x="476" y="340" font-size="14" fill="#e6edf3" font-weight="600">Open source</text></g>
+<text x="60" y="414" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#8b949e">oliverkandagor1@gmail.com  ·  github.com/oliver-kandagor</text>
+<g class="float">
+<rect x="852" y="20" width="276" height="440" rx="46" fill="#010409"/>
+<rect x="860" y="28" width="260" height="424" rx="38" fill="#0f172a"/>
+<rect x="955" y="40" width="70" height="20" rx="10" fill="#010409"/>
+<text x="888" y="55" font-size="12" font-weight="700" fill="#e2e8f0">9:41</text>
+<rect x="1074" y="45" width="20" height="10" rx="3" fill="none" stroke="#e2e8f0"/><rect x="1076" y="47" width="13" height="6" rx="1.5" fill="#3DDC84"/>
+<text x="886" y="94" font-size="11" fill="#94a3b8">Good to see you</text>
+<text x="886" y="112" font-size="16" font-weight="700" fill="#e2e8f0">Oliver's apps</text>
+<rect x="886" y="124" width="44" height="44" rx="12" fill="#3DDC84"/><text x="908" y="152" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">M</text><text x="908" y="182" font-size="9" fill="#94a3b8" text-anchor="middle">MemoBill</text><rect x="942" y="124" width="44" height="44" rx="12" fill="#54C5F8"/><text x="964" y="152" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">N</text><text x="964" y="182" font-size="9" fill="#94a3b8" text-anchor="middle">Nifunze</text><rect x="998" y="124" width="44" height="44" rx="12" fill="#F05138"/><text x="1020" y="152" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">C</text><text x="1020" y="182" font-size="9" fill="#94a3b8" text-anchor="middle">CampusMart</text><rect x="1054" y="124" width="44" height="44" rx="12" fill="#22d3ee"/><text x="1076" y="152" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">L</text><text x="1076" y="182" font-size="9" fill="#94a3b8" text-anchor="middle">LiquidTab</text><rect x="886" y="196" width="44" height="44" rx="12" fill="#7F52FF"/><text x="908" y="224" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">U</text><text x="908" y="254" font-size="9" fill="#94a3b8" text-anchor="middle">UI Kit</text><rect x="942" y="196" width="44" height="44" rx="12" fill="#f59e0b"/><text x="964" y="224" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">K</text><text x="964" y="254" font-size="9" fill="#94a3b8" text-anchor="middle">Kalenjin</text><rect x="998" y="196" width="44" height="44" rx="12" fill="#ec4899"/><text x="1020" y="224" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">A</text><text x="1020" y="254" font-size="9" fill="#94a3b8" text-anchor="middle">Aula</text><rect x="1054" y="196" width="44" height="44" rx="12" fill="#10b981"/><text x="1076" y="224" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">[m]</text><text x="1076" y="254" font-size="9" fill="#94a3b8" text-anchor="middle">Matrix</text>
+<rect x="880" y="290" width="220" height="98" rx="18" fill="#1e293b"/>
+<text x="896" y="316" font-size="10" fill="#94a3b8">CORE STACK</text>
+<text x="896" y="338" font-size="11" fill="#e2e8f0">Flutter</text><rect class="bar" x="952" y="330" width="128" height="8" rx="4" fill="#54C5F8"/>
+<text x="896" y="356" font-size="11" fill="#e2e8f0">Swift</text><rect class="bar" x="952" y="348" width="104" height="8" rx="4" fill="#F05138"/>
+<text x="896" y="374" font-size="11" fill="#e2e8f0">Kotlin</text><rect class="bar" x="952" y="366" width="92" height="8" rx="4" fill="#7F52FF"/>
+<rect x="878" y="393" width="224" height="46" rx="18" fill="#1e293b" opacity="0.7"/>
+<rect x="890" y="397" width="40" height="40" rx="11" fill="#3DDC84" opacity="0.9"/><rect x="946" y="397" width="40" height="40" rx="11" fill="#54C5F8" opacity="0.9"/><rect x="1002" y="397" width="40" height="40" rx="11" fill="#F05138" opacity="0.9"/><rect x="1058" y="397" width="40" height="40" rx="11" fill="#7F52FF" opacity="0.9"/><text x="910" y="423" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">A</text><text x="966" y="423" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">F</text><text x="1022" y="423" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">S</text><text x="1078" y="423" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">K</text>
+<rect x="955" y="441" width="70" height="4" rx="2" fill="#e2e8f0" opacity="0.5"/>
+</g>
+</svg>
