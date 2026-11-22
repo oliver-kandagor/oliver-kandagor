@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="52" viewBox="0 0 230 52" role="img" aria-label="Flutter work">
+<style>text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif} @keyframes sh{0%{transform:translateX(-80px)}60%,100%{transform:translateX(270px)}} .sh{animation:sh 4s ease-in-out infinite}</style>
+<defs><clipPath id="c"><rect width="230" height="52" rx="26"/></clipPath><linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#c)"><rect width="230" height="52" fill="#0e2536"/><rect class="sh" x="0" y="0" width="60" height="52" fill="url(#s)"/></g>
+<rect x="1" y="1" width="228" height="50" rx="25" fill="none" stroke="#02569B" stroke-width="2"/>
+<g transform="translate(20,14) scale(.92)" fill="#54C5F8"><path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z"/></g><text x="56" y="32" font-size="16" font-weight="700" fill="#54C5F8">Flutter work</text>
+<path d="M190 26h14m-5-5l5 5-5 5" fill="none" stroke="#54C5F8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
